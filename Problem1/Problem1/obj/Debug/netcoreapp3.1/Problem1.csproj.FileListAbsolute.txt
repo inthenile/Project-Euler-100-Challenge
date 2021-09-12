@@ -1,0 +1,14 @@
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\bin\Debug\netcoreapp3.1\Problem1.exe
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\bin\Debug\netcoreapp3.1\Problem1.deps.json
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\bin\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\bin\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.AssemblyReference.cache
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\crown\Visual Studio Projects\repos\Problem1\Problem1\obj\Debug\netcoreapp3.1\Problem1.genruntimeconfig.cache
