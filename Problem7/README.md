@@ -1,4 +1,4 @@
-## Problem 5
+## Problem 7
 
 ### 10001st prime
 
