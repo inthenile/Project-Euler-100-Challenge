@@ -1,0 +1,21 @@
+* {
+    width: 100%;
+    background-color: rgb(245, 239, 230);
+    font-family: "Helvetica";
+    font-size: 20px;
+}
+#question{
+    margin: auto;
+    text-align: center;
+    padding-top:5%;
+    ;
+}
+#button{
+    margin: auto;;
+    width: fit-content;
+    padding-top:5%;
+}
+#answer,#answer2{
+    margin: auto;
+    width: fit-content;
+}
