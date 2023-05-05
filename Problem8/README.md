@@ -31,8 +31,6 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 
 My initial idea is to iterate through each of the numbers by thirteen, that is the first thirteen numbers; then move by one digit, and get the next thirteen and so forth; and find the highest number. This was my first attempt at implementing a self-made recursion, but I thought it would be a good choice to iterate through the list. You can find the solution on the HTML file (with _minimal_ styling), where the biggest product and the numbers that constitute this product are revealed.
 
-The answer is:
-
 ## The highest product is 23514624000.
 
 ## The elements are as follows: [5,5,7,6,6,8,9,6,6,4,8,9,5]. They are found between indeces [197] and [209].
